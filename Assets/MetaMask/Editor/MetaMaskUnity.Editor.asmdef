@@ -1,0 +1,19 @@
+{
+    "name": "MetaMaskUnity.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9160cf3ea7468fb4289a9f2ab3d51131",
+        "GUID:6880a053aab14ed6adafd165b81dd4a4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
